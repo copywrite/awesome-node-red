@@ -4,3 +4,5 @@ Awesome NodeRed ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d
 A curated list of Project related with NodeRed. Everyone can contribute here!
 
 [electron-node-red] https://github.com/zuhito/electron-node-red
+
+[node-red-contrib-dnr] https://github.com/namgk/node-red-contrib-dnr
